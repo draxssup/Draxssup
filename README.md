@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @DhruvChatrani
-- 👀 I’m interested in Programming, solving ccomplex provlems, learning new things
-- 🌱 I’m currently learning Data Algorithm, Machine Learning, Deep learning
+- 👋 Hi, I’m @DhruvChatrani, a Second Year Computer Emgineering Student in VESIT, Mumbai
 - 📫 You can contact me on dhruvchatrani@protonmail.com
 
 <!---
