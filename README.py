@@ -1,6 +1,6 @@
 class Me:
     def __init__(self):
-        self.name = "Your Name"
+        self.name = "Draxssup"
         self.current_status = "Lost in Second Year Computer Engineering Wonderland 🤷‍♂️"
         self.editor = "Definitely not Vim (neovim kinda does count)"
         self.future_goal = "Actuarial superstar (maybe?)"
