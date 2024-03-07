@@ -9,7 +9,7 @@
 - Definitely not Java
 
 🌱 I’m currently learning...
-- PyCaret
+- PyTorch
 
 🏫 I'm currently...
 - Speed-running computer engineering
