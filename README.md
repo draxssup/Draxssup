@@ -1,4 +1,4 @@
-# I’m Dhruv
+# I’m Me
 
 👀 I’m interested in 
 - C
@@ -9,7 +9,7 @@
 - Definitely not Java
 
 🌱 I’m currently learning...
-- PyTorch
+- GCP
 
 🏫 I'm currently...
 - Speed-running computer engineering
