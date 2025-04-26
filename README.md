@@ -1,1 +1,1 @@
-^hi^~hello~
+<sup>hi</sup><sub>hello</sub>
